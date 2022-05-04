@@ -1,3 +1,0 @@
-<html>
-  texte
-</html>
